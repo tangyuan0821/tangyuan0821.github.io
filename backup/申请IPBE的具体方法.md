@@ -11,3 +11,5 @@
 10. 记下工单编号（这很重要，建议截图）
 11. 完成上述步骤后，请静候佳音。申请结果会在电子邮箱中通知。
     **   NOTE：**您的申请一般会在3日内收到回复。如果您的申请超过30天仍没有任何收到回复信件或是您的临时密码过期，请到[#wikipedia-zh-help](https://web.libera.chat/?chan=#wikipedia-zh-help) 说明情况，同时告知您所使用或申请的用户名，并请等待一段时间不要马上关闭页面，志愿者将会尽快协助您。
+
+![Image](https://github.com/user-attachments/assets/e198b86d-37e4-4d6f-b73d-25ce1a18faef)
